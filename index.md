@@ -14,11 +14,15 @@
 ## Skills
 
 - **Primary Languages:** Java, Python, Bash, Batch
-- **Secondary Languages:** C++, C#, MySQL, SQLite, HTML, CSS, JavaScript, 
+- **Secondary Languages:** C++, C#, MySQL, SQLite, HTML, CSS, JavaScript, PHP
 - **Operating Systems:** Linux(Ubuntu, Kali), MAC OS X, Windows
 - **Foreign Languages** Fluent Italian Speaker/Writer, Intermediate Spanish, Elementary French
 
 ## Work/Programming Experience
+- **Website** - Carlsbad, CA (Spring '21) 
+    - Built own website using Javascript, CSS, and HTML 
+    - Displayed knowledge of hosting sites and purchasing the domains to do so
+    - Executed own self made color palettes to show proficiency in front-end design skills 
 - **Morse Code Generator and other Algorihmn Creation** - San Diego, CA (Fall '20) 
     - Created a morse code reader and generator that reads texts documents and writes to text documents
     - Displayed in depth knowledge of Binary Trees, AVL Trees, Search Algorithms, etc (see work on github)
