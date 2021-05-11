@@ -19,7 +19,7 @@
 - **Foreign Languages** Fluent Italian Speaker/Writer, Intermediate Spanish, Elementary French
 
 ## Work/Programming Experience
-- **Website** - Carlsbad, CA (Spring '21) 
+- **Personal Website** - Carlsbad, CA (Spring '21) 
     - Built own website using Javascript, CSS, and HTML 
     - Displayed knowledge of hosting sites and purchasing the domains to do so
     - Executed own self made color palettes to show proficiency in front-end design skills 
